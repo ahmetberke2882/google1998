@@ -1,0 +1,83 @@
+.logo{
+ 
+}
+/*sabit css*/
+p
+{
+    padding: 0px;
+    margin: 0px;
+}
+.textcenter
+{
+    text-align: center;
+}
+.textleft
+{
+    text-align: left;
+}
+.textright
+{
+    text-align: right;
+}
+/*sabit css end*/
+.satiralan
+{
+    width:100%;
+    background-color: #fff;
+}
+.bggriic
+{
+    width:90%;
+   
+    background-color: rgb(222, 219, 219);
+    margin: auto;
+}
+.arama input.gbutton
+{
+    width: auto;
+}
+
+
+.arama{
+    text-align: center;
+
+}
+.arama input
+{
+    width: 300px;
+}
+.solalt
+{
+    background-color: rgb(123, 238, 238);
+    width: 38.5%;
+    margin-left: 75px;
+    height: 80px;
+    text-align: center;
+    margin-top: 3px;
+}
+.orta
+{
+    background-color: rgb(123, 238, 238);
+    width: 15%;
+    height: 80px;
+    text-align: center;
+    float: right;
+    margin-right: 630px;
+    margin-top: -80px;
+}
+.sagalt
+{
+    background-color: rgb(123, 238, 238);
+    width: 36.3%;
+    height: 80px;
+    text-align: center;
+    margin-left: 892px;
+    margin-top: -80px;
+    margin-right: 75px;
+}
+.footer
+{
+    text-align: center;
+    margin-top: 15px;
+    font-size: x-small;
+}
